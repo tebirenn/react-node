@@ -1,0 +1,92 @@
+
+#blog-detail {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 140px;
+    padding: 40px 60px;
+    background-color: #fff;
+    gap: 25px;
+}
+
+#blog-detail h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#blog-detail .form {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.blog-detail-input-wrap {
+    width: 60%;
+    border: 1px solid #E7E7E7;
+    padding-left: 20px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+#blog-detail .form input:first-child {
+    height: 50px;
+}
+
+#blog-detail span {
+    height: 50px;
+    width: 60%;
+    border: 1px solid #E7E7E7;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+}
+
+#blog-detail img {
+    width: 12px;
+}
+
+#blog-detail textarea {
+    resize: none;
+    height: 150px;
+    font-size: 14px;
+    padding: 20px;
+}
+
+#blog-detail button {
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+#btn-img {
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    width: 170px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#file {
+    display: none;
+}
+#btn-save {
+    background-color: #00A2DC;
+    color: #fff;
+    width: 120px;
+}
+
+#btn-ctgr {
+    background-color: transparent;
+    border: none;
+}

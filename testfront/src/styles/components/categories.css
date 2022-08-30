@@ -1,0 +1,30 @@
+.categories {
+    background-color: #fff;
+    box-sizing: border-box;
+    display: flex;
+    height: 500px;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    padding: 20px 20px;
+    text-align: center;
+}
+
+.categories h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.categories button {
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px dotted #E7E7E7;
+    height: 40px;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #007BFF;
+    font-size: 16px;
+}

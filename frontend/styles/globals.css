@@ -1,0 +1,9 @@
+@import url('./vendors/reset.css');
+@import url('./components/header.css');
+@import url('./pages/profile.css');
+@import url('./pages/login.css');
+
+
+body {
+    background-color: #F8F9FA;
+}

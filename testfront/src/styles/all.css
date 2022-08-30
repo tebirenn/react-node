@@ -1,0 +1,32 @@
+@import url('vendors/reset.css');
+@import url('components/header.css');
+@import url('components/categories.css');
+@import url('pages/auth.css');
+@import url('pages/blogs.css');
+@import url('pages/blog-detail.css');
+@import url('pages/new-blog.css');
+
+
+#root {
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F8F9FA;
+}
+
+.blue-hover-btn {
+    transition: .2s;
+    border: 1px solid transparent;
+}
+
+.blue-hover-btn:hover {
+    color: #00A2DC;
+    background-color: #fff;
+    border: 1px solid #00A2DC;
+}
+
+.blue-hover-btn:hover img {
+    filter: invert(44%) sepia(38%) saturate(3707%) hue-rotate(167deg) brightness(99%) contrast(101%);
+}
