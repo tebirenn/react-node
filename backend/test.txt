@@ -1,2 +1,0 @@
-tebirenn token: 
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwibG9naW4iOiJ0ZWJpcmVubiIsImlhdCI6MTY2MTA5MTU2MywiZXhwIjoxNjYxMTc3OTYzfQ.x6XMijN7e-remTku6sIJtpmvagWpEDuIioj8BVX3zMs
